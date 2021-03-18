@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently working on iPhone development in both Swift and Objective-c.
-I’m also learning React Native, Machin Learning and AR.
+I’m Softnoesis Engineer since 2012 having expertise in iPhone development in both Swift and Objective-c.
+I’m also workin on React Native, Machin Learning and AR.
 I had experience to develop iOS framework and published on CocoaPods.
 
 Always eager to learn new technology and idea!
