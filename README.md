@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I’m Tech Geek since 2012 having expertise in iPhone development in both Swift and Objective-c.
-I’m also workin on React Native, Machin Learning and AR.
+I’m also working on React Native, Machin Learning and AR.
 I had experience to develop iOS framework and published on CocoaPods.
 
 Always eager to learn new technology and idea!
