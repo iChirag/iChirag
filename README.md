@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Softnoesis Engineer since 2012 having expertise in iPhone development in both Swift and Objective-c.
+I’m Tech Geek since 2012 having expertise in iPhone development in both Swift and Objective-c.
 I’m also workin on React Native, Machin Learning and AR.
 I had experience to develop iOS framework and published on CocoaPods.
 
 Always eager to learn new technology and idea!
 
 # Get in touch
-* [Linkedin](www.linkedin.com/in/chirag-lukhi)
+* [Linkedin](http://www.linkedin.com/in/chirag-lukhi)
 * Say [Hi](mailto:ichirag.lukhi@gmail.com)
