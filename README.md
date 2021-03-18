@@ -22,5 +22,5 @@ I had experience to develop iOS framework and published on CocoaPods.
 Always eager to learn new technology and idea!
 
 # Get in touch
-* [Linkedin] (www.linkedin.com/in/chirag-lukhi)
+* [Linkedin](www.linkedin.com/in/chirag-lukhi)
 * Say [Hi](mailto:ichirag.lukhi@gmail.com)
