@@ -1,4 +1,4 @@
-### Hi there 👋
+# Chirag Lukhi 
 
 <!--
 **iChirag/iChirag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m currently working on iPhone development in both Swift and Objective-c.
+I’m also learning React Native, Machin Learning and AR.
+I had experience to develop iOS framework and published on CocoaPods.
+
+Always eager to learn new technology and idea!
+
+# Get in touch
+* [Linkedin] (www.linkedin.com/in/chirag-lukhi)
+* Say [Hi](mailto:ichirag.lukhi@gmail.com)
